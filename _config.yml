@@ -4,18 +4,17 @@ pygments: true
 permalink: /:title.html
 relative_permalinks: false
 
-default_theme: ribbon
+default_theme: bright
 default_width: 792
 default_lang: en
 default_body_class: list
 
 author:
-    name: Yours Truly
+    name: "Андрей [8xx8] Кулаков"
     # url:  http://example.com/
     company:
-        name: Famous Inc.
+        name: Waytag.ru
         # url:  http://example.com/
 
-fork_url: https://github.com/shower/shower
 progress: true
 line_numbers: true

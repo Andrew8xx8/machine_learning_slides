@@ -105,9 +105,6 @@ style: |
 
 ![](pictures/waytag.png)
 
-## @Ulway {#Scheme}
-![](pictures/s1.png)
-
 ## @Ulway
 
 * Краудсoрсинг
@@ -115,6 +112,9 @@ style: |
 * 30-60 сообщений в день
 * Читают: 2 122 (Twitter) + 11 310 (VK)
 * ~200 посещений сайта в сутки
+
+## Откуда и куда {#Scheme}
+![](pictures/s1.png)
 
 ## Проблема Краудсoрсинга
 

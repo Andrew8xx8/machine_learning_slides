@@ -105,7 +105,7 @@ style: |
 
 ![](pictures/waytag.png)
 
-## Откуда и куда {#Scheme}
+## @Ulway {#Scheme}
 ![](pictures/s1.png)
 
 ## @Ulway
